@@ -25,20 +25,19 @@ npm install
 
 ## Uso
 
-
-Levantar el servidor local:
+- Levantar el servidor local:
 
 ~~~bash
 npm start
 ~~~
 
-Probar el endpoint:
+- Probar el endpoint:
 
 ~~~bash
 curl http://localhost:3000/api/estado
 ~~~
 
-Respuesta esperada:
+- Respuesta esperada:
 
 ~~~json
 {
@@ -48,7 +47,7 @@ Respuesta esperada:
 }
 ~~~
 
-Si usas navegador, abre:
+- Si usas navegador, abre:
 
 ~~~text
 http://localhost:3000/api/estado
