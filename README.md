@@ -1,12 +1,12 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+- API de Práctica Git Flow
 
 ## Descripción
 
-Este proyecto es una mini API construida con Express para practicar Git Flow en una actividad guiada.
+- Este proyecto es una mini API construida con Express para practicar Git Flow en una actividad guiada.
 
-La API tiene un endpoint de estado que permite comprobar que el servidor esta funcionando correctamente.
+- La API tiene un endpoint de estado que permite comprobar que el servidor está funcionando correctamente.
 
 ## Instalación
 
@@ -25,20 +25,19 @@ npm install
 
 ## Uso
 
-
-Levantar el servidor local:
+- Levantar el servidor local:
 
 ~~~bash
 npm start
 ~~~
 
-Probar el endpoint:
+- Probar el endpoint:
 
 ~~~bash
 curl http://localhost:3000/api/estado
 ~~~
 
-Respuesta esperada:
+- Respuesta esperada:
 
 ~~~json
 {
@@ -48,7 +47,7 @@ Respuesta esperada:
 }
 ~~~
 
-Si usas navegador, abre:
+- Si usas navegador, abre:
 
 ~~~text
 http://localhost:3000/api/estado
