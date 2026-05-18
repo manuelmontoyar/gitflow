@@ -1,12 +1,12 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+- API de Práctica Git Flow
 
 ## Descripción
 
-Este proyecto es una mini API construida con Express para practicar Git Flow en una actividad guiada.
+- Este proyecto es una mini API construida con Express para practicar Git Flow en una actividad guiada.
 
-La API tiene un endpoint de estado que permite comprobar que el servidor esta funcionando correctamente.
+- La API tiene un endpoint de estado que permite comprobar que el servidor está funcionando correctamente.
 
 ## Instalación
 
