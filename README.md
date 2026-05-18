@@ -24,7 +24,7 @@ npm install
 ~~~
 
 ## Uso
-asfasfasf
+
 Levantar el servidor local:
 
 ~~~bash
